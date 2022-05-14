@@ -1,6 +1,6 @@
 # App Courses - Online
 
-# with Django, Python, JavaScript and IBM-Cloud-CF
+# with Django, Python, Bootstrap, JavaScript and IBM-Cloud-CF
 
 ------
 
